@@ -16,7 +16,7 @@ import {
   const OrderDataViewContainer = (props) => {
     // states start
   
-    const { isOpen, onOpen, onClose } = useDisclosure();
+    const { isOpen,onClose } = useDisclosure();
   
     // states end
   
